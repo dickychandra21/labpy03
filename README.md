@@ -63,4 +63,4 @@ program latihan 1
 syntax program 1 sebagai berikut
 # 1[Github Logo](5.png) <h2>
 hasil dari output program 1 ketika di runtime
-# ![Github Logo](6.png0 <h2> 
+# ![Github Logo](6.png) <h2> 
